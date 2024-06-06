@@ -14,7 +14,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-public class formTestV1 {
+public class FormTestV1 {
     private WebDriver driver;
 
     // Настройка и установка webdriver
